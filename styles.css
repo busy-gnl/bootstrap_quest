@@ -1,3 +1,7 @@
 .bg-bleu {
   background-color: #2354a1;
 }
+
+.card {
+  box-sizing: content-box;
+}
